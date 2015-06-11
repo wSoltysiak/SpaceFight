@@ -1,5 +1,5 @@
 # SpaceFight
-C# space shooter
+C# + MonoGame space shooter
 
 SpaceFight is a survival space shooter with small changes.
 Gameplay is simply - you must survive as long as possible, destroying many enemies!
