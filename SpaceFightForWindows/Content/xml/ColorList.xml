@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Colors>
+  <ColorList name="engineColors">
+    <color>
+      <r>115</r>
+      <g>255</g>
+      <b>228</b>
+    </color>
+    <color>
+      <r>64</r>
+      <g>255</g>
+      <b>218</b>
+    </color>
+    <color>
+      <r>45</r>
+      <g>197</g>
+      <b>167</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="backgroundColors">
+    <color>
+      <r>179</r>
+      <g>179</g>
+      <b>179</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="gravityAreasColors">
+    <color>
+      <r>1</r>
+      <g>6</g>
+      <b>10</b>
+    </color>
+    <color>
+      <r>3</r>
+      <g>4</g>
+      <b>5</b>
+    </color>
+    <color>
+      <r>0</r>
+      <g>0</g>
+      <b>0</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX1">
+    <color>
+      <r>76</r>
+      <g>150</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>99</r>
+      <g>195</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>129</r>
+      <g>255</g>
+      <b>0</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX2">
+    <color>
+      <r>152</r>
+      <g>164</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>185</r>
+      <g>199</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>231</r>
+      <g>249</g>
+      <b>0</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX4">
+    <color>
+      <r>166</r>
+      <g>143</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>202</r>
+      <g>174</g>
+      <b>0</b>
+    </color>
+    <color>
+      <r>253</r>
+      <g>217</g>
+      <b>0</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX8">
+    <color>
+      <r>160</r>
+      <g>0</g>
+      <b>19</b>
+    </color>
+    <color>
+      <r>194</r>
+      <g>0</g>
+      <b>23</b>
+    </color>
+    <color>
+      <r>242</r>
+      <g>0</g>
+      <b>28</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX16">
+    <color>
+      <r>91</r>
+      <g>3</g>
+      <b>110</b>
+    </color>
+    <color>
+      <r>111</r>
+      <g>3</g>
+      <b>133</b>
+    </color>
+    <color>
+      <r>138</r>
+      <g>3</g>
+      <b>167</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX32">
+    <color>
+      <r>7</r>
+      <g>64</g>
+      <b>107</b>
+    </color>
+    <color>
+      <r>8</r>
+      <g>77</g>
+      <b>130</b>
+    </color>
+    <color>
+      <r>8</r>
+      <g>96</g>
+      <b>163</b>
+    </color>
+  </ColorList>
+
+  <ColorList name="explosionColorsX64">
+    <color>
+      <r>164</r>
+      <g>255</g>
+      <b>245</b>
+    </color>
+    <color>
+      <r>112</r>
+      <g>255</g>
+      <b>228</b>
+    </color>
+    <color>
+      <r>0</r>
+      <g>225</g>
+      <b>228</b>
+    </color>
+  </ColorList>
+</Colors>

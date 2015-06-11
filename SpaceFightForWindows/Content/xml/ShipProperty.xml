@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shipProperties>
+  <ship name="Pship1">
+    <speed>3</speed>
+    <gunCount>1</gunCount>
+    <shield>16</shield>
+    <points>0</points>
+  </ship>
+
+  <ship name="Pship2">
+    <speed>3,5</speed>
+    <gunCount>1</gunCount>
+    <shield>8</shield>
+    <points>0</points>
+  </ship>
+
+  <ship name="Pship3">
+    <speed>3</speed>
+    <gunCount>2</gunCount>
+    <shield>10</shield>
+    <points>0</points>
+  </ship>
+
+  <ship name="Pship4">
+    <speed>2,5</speed>
+    <gunCount>2</gunCount>
+    <shield>20</shield>
+    <points>0</points>
+  </ship>
+
+  <ship name="Eship1">
+    <speed>3</speed>
+    <gunCount>1</gunCount>
+    <shield>1</shield>
+    <points>1</points>
+  </ship>
+  
+  <ship name="Eship2">
+    <speed>4</speed>
+    <gunCount>1</gunCount>
+    <shield>0</shield>
+    <points>2</points>
+  </ship>
+  
+  <ship name="Eship3">
+    <speed>2,5</speed>
+    <gunCount>1</gunCount>
+    <shield>2</shield>
+    <points>2</points>
+  </ship>
+  
+  <ship name="Eship4">
+    <speed>2</speed>
+    <gunCount>3</gunCount>
+    <shield>3</shield>
+    <points>3</points>
+  </ship>
+</shipProperties>
